@@ -1,2 +1,5 @@
 # chrome
-a translate plug for chrome
+a translate plugin for chrome
+
+# licence
+MIT
